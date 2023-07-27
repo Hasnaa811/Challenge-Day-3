@@ -1,0 +1,77 @@
+
+body {
+    font-family: monospace;
+    margin: 20px;
+    padding: 0;
+    background-color: lightblue;
+  }
+  p{
+    font-size: 26px;
+    font-weight: 700;
+    padding-left: 50px;
+    
+  }
+  form {
+    width: 400px;
+    margin: 0 auto;
+    background-color: #ecf0f1;
+    padding: 20px;
+    border: 2px solid lightpink;
+    border-radius: 5px;
+  }
+  
+  div {
+    margin-right: 10px; ;
+  }
+  fieldset {
+    border: 5px;
+    padding: 0;
+  }
+  
+  
+  label {
+    display: block;
+    margin-bottom: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    font-style: italic, ;
+  }
+  .input { 
+    width: 95%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+
+  select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  textarea {
+    resize: vertical;
+
+  }
+  .radio  {
+    margin-right: 5px;
+  }
+  
+  
+  
+  #submit  {
+    background-color: lightpink;
+    display: block;
+    width: 100%;
+    padding: 10px;
+    color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  
+  
+  
